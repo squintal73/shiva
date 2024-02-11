@@ -9,5 +9,5 @@ Install with composer
 Start Service
 
 ```sh
-> php -S localhost:8000 public/index.php
+> source start
 ```
