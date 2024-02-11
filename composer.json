@@ -1,0 +1,18 @@
+{
+    "description": "Shiva Project framework",
+    "authors": [
+        {
+            "name": "Sidnei Quintal",
+            "email": "sidneirq73@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Controllers\\": "app/Http/Controllers",
+            "Models\\": "app/Models",
+            "Views\\":"app/Resources/Views",
+            "Conf\\": "conf"
+        }
+    },
+    "require": {}
+}
